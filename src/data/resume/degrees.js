@@ -1,15 +1,27 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
+    school: 'National Institute of Technology (NIT), Raipur',
+    degree: 'M.C.A',
+    link: 'http://www.nitrr.ac.in/',
+    year: 2022,
+  },
+  {
+    school: 'Rajarshi school of Management Technology (Varanasi)',
+    degree: 'B.C.A',
+    link: 'https://www.rsmt.ac.in/',
+    year: 2019,
+  },
+  {
+    school: 'Harihar Singh public school',
+    degree: 'Intermediate(XII)',
+    link: 'https://hariharsinghpublicschool.in/',
     year: 2016,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'S.A.N.B.I.C (JAUNPUR)',
+    degree: 'Matriculation(X) ',
+    link: '/',
+    year: 2014,
   },
 ];
 

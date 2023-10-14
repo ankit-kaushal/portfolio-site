@@ -18,8 +18,8 @@ const SideBar = () => (
     </section>
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Mona. I am a <a href="http://www.nitrr.ac.in/">NIT Raipur</a>. Worked as a Software Developer at <a href="https://www.cogoport.com/">Cogoport</a>.
-      I have 1.5 years of hands-on experience in HTML, CSS, JavaScript, ReactJs and NextJs.
+      <p>Hi, I&apos;m Mona. Hello, I'm Mona Singh, a dedicated software developer with 1.5 years of valuable industry experience. 
+      My focus and expertise lie in the dynamic realm of frontend development, where I have honed my skills in crafting user-friendly and visually compelling interfaces.
       </p>
       <ul className="actions">
         <li>
@@ -30,7 +30,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Mona Singh<Link to="/">monasingh.in.net</Link>.</p>
+      <p className="copyright">&copy; Mona Singh<Link to="https://monasingh.in.net/">monasingh.in.net</Link>.</p>
     </section>
   </section>
 );
