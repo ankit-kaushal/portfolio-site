@@ -18,7 +18,7 @@ const SideBar = () => (
     </section>
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Mona. Hello, I'm Mona Singh, a dedicated software developer with 1.5 years of valuable industry experience. 
+      <p>Hi, I&apos;m Mona, a dedicated software developer with 1.5 years of valuable industry experience. 
       My focus and expertise lie in the dynamic realm of frontend development, where I have honed my skills in crafting user-friendly and visually compelling interfaces.
       </p>
       <ul className="actions">
